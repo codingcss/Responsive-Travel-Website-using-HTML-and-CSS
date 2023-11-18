@@ -1,4 +1,4 @@
-# Travel.io_08-04-23
+# Restaurant Website Design Using HTML, CSS And JAVASCRIPT
 Learn how to design and build your own stunning travel website using HTML and CSS with our step-by-step tutorial.
 ## [Watch it on youtube]([(https://www.youtube.com/watch?v=-V3nh_Kae4U&ab_channel=LearnwithDaniel)]
 
@@ -7,4 +7,4 @@ Learn how to design and build your own stunning travel website using HTML and CS
 
 💙 Join the channel to see more videos like this. [LearnWithDaniel](https://www.youtube.com/@learnwithdanial417)
 
-![preview img](/maxresdefault (22).jpg)
+![preview img](/maxx.jpg)
